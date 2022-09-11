@@ -3,6 +3,8 @@
 import os
 import sys
 import dotenv
+from dotenv import read_dotenv
+
 
 
 def main():
